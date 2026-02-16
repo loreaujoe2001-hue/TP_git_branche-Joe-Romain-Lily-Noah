@@ -3,3 +3,5 @@ Version initiale
 Ligne_A j'ai rien à dire à vous
 Ligne_B
 Ligne_C
+
+C'est quoi la vie pourquoi je suis là
