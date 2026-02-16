@@ -1,5 +1,5 @@
 Fichier commun
 Version initiale
-Ligne_A
+Ligne_A j'ai la flemme de modifier
 Ligne_B
 Ligne_C
