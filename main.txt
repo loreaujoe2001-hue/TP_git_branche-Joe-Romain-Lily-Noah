@@ -1,5 +1,5 @@
 Fichier commun
 Version initiale
-Ligne_A j'ai rien à dire
+Ligne_A j'ai rien à dire à vous
 Ligne_B
 Ligne_C
