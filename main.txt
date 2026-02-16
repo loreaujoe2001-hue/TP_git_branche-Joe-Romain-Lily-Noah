@@ -2,5 +2,10 @@ Fichier commun
 Version initiale
 Ligne_A j'ai rien à dire à vous
 Ligne_B
+<<<<<<< HEAD
 Ligne_C
-mangez è vous de l'emmental
+
+C'est quoi la vie pourquoi je suis là
+=======
+Ligne_C je te modifie toi
+>>>>>>> 57e8c0afd4fceec1490ad8a38cc1ae2c720d4f42
