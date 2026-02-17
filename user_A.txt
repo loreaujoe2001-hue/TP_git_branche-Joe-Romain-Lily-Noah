@@ -3,7 +3,12 @@ Deuxième ligne ajoutée par user_A
 
 j'ai la flemme d'ajouter cette troisieme ligne
 
+et aussi celui bean !!!
+
 
 
 Hotfix ajouté par user_A
+
+
+dernier exo pour tp branch
 

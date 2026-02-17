@@ -1,8 +1,14 @@
 Fichier commun
 Version initiale
 Ligne_A Tu arretes ca joeeeeee
+Version develop modifiée par user_A pour étape 9
+
+Ligne_A j'ai rien à dire à vous
+develop
 Ligne_B
 Ligne_C
+
+mdrrrr
 
 C'est quoi la vie pourquoi je suis là
 
